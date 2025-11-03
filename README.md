@@ -65,3 +65,7 @@ bash run.sh
 ```bash
 python main.py -d db.sqlite3 -s '2023-04-02' -e '2023-04-17'
 ```
+
+---
+
+The previous repository using now-deprecated APIs can be found [here](https://github.com/Alyetama/Coyote-Attacks).
